@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "cw1":"nodemon ./js/03-codewars.js",
     "nd":"nodemon ./js/01-namu-darbas.js",
     "nd2":"nodemon ./js/02-namu-darbas.js",
     "strings": "nodemon ./index.js",
